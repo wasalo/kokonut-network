@@ -1,5 +1,7 @@
 # Kokonut Framework ALPHA Version
 
+HTML Version: https://ws-holdings.fibery.io/Kokonut_Ecosystem/Kokonut_Task/234/Kokonut-Framework-Alpha-Version-1341?sharing-key=93dfdc74-4479-481d-85e4-c8370f068182
+
 ### **A vision of change**
 
 Kokonut Network was created to **reduce** the obstacles to agricultural **development** and rural project **funding** and democratize **investment** in [real-world projects](https://x.com/KokonutNetwork/status/1808493194142765556). We will use **blockchain** technology to [establish multiple plantations nationwide](https://link.kokonut.network/KKN-Seeds-Deck), which will benefit global **communities** and everyone in the network.
