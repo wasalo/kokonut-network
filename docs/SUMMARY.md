@@ -8,3 +8,4 @@
 ## Kokonut DAO
 
 * [DAO Layers](kokonut-dao/dao-layers.md)
+* [Governance Framework](kokonut-dao/governance-framework.md)
