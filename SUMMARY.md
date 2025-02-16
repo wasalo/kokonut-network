@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+## Kokonut 101
+
+* [Frequently Asked Questions](README.md)
+* [Page 1](kokonut-101/page-1.md)
