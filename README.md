@@ -18,4 +18,4 @@ Syntropic farming is a proven business with many potential benefits. From provid
 
 * Please email us at [hello@kokonut.network](mailto:hello@kokonut.network)
 * Social media: [Discord](https://discord.gg/P6Jj5btpv7), [Twitter](https://twitter.com/kokonutnetwork), [Facebook](https://www.facebook.com/KokonutNetwork), [Instagram](https://instagram.com/kokonutnetwork).
-* Book a meeting: [https://link.kokonut.network/meeting](https://link.kokonut.network/meeting)
+* Let's talk: [https://link.kokonut.network/meeting](https://link.kokonut.network/meeting)
