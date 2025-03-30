@@ -17,3 +17,6 @@ Near the farm, in a region close to a batey and the Haty community, Yanny and Ne
 The project will also feature a nursery dedicated to the conservation of endangered plant species, particularly native fruit varieties. They will employ agro-ecological methods such as biochar soil enrichment to regenerate the land and preserve biodiversity, ensuring that the farm is not just a place of production, but a catalyst for positive change in the community and its surroundings.
 
 > **"Adelphi" is more than just an agricultural project—it is a space for transformation, where people can reconnect with nature and embrace a healthier, more balanced way of life. Yanny and Neury are not just planting crops; they are sowing the seeds of a sustainable future, filled with hope for themselves and their community.**
+
+<figure><img src="../../.gitbook/assets/KKN Adelphi Horizontal - Social Photo Posts.png" alt=""><figcaption></figcaption></figure>
+

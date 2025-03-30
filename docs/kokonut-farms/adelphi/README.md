@@ -4,6 +4,8 @@ icon: trees
 
 # Adelphi
 
+<figure><img src="../../.gitbook/assets/KKN Adelphi Aerial.png" alt=""><figcaption></figcaption></figure>
+
 ### **Project Summary (Abstract)**
 
 This project aims to establish a sustainable agro-ecological production model that integrates soil restoration, biodiversity conservation, and organic food production. It employs an innovative approach based on syntropic farming principles, biochar application, and productive diversification. A total of 13,838 m² will be dedicated to the agro-ecological production of vegetables, fruits, and forest species, ensuring the project's economic sustainability through commercialization in organic markets and local supermarkets.
@@ -32,6 +34,13 @@ Implement a regenerative agro-ecological production model that ensures environme
 #### **Geospatial data**
 
 * **Location:** Gonzalo, Sabana Grande de Boyá, Monte Plata, Dominican Republic
-* **Coordinates**: [**18°56'19.7"N 69°44'06.0"W**](https://www.google.com/maps/place/18%C2%B056'19.7%22N+69%C2%B044'06.0%22W/@18.9387931,-69.735003,1058m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d18.9387931!4d-69.735003?entry=ttu\&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw==)
+* **Coordinates**: [18°56'19.7"N 69°44'06.0"W](https://www.google.com/maps/place/18%C2%B056'19.7%22N+69%C2%B044'06.0%22W/@18.9387931,-69.735003,1058m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d18.9387931!4d-69.735003?entry=ttu\&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw==)
 * **Adelphi 3D Land Elevation Model**: [https://link.kokonut.network/AdelphiOrtho3D](https://link.kokonut.network/AdelphiOrtho3D)
 * **Adelphi Species GeoNode**: [https://link.kokonut.network/AdelphiSpeciesGeoNode](https://link.kokonut.network/AdelphiSpeciesGeoNode)
+
+#### Ecological Census Map
+
+{% file src="../../.gitbook/assets/Species Adelphi.pdf" %}
+Adelphi Ecological Census PDF Generated with GeoNode
+{% endfile %}
+

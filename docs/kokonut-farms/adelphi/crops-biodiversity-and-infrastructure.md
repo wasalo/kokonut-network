@@ -38,6 +38,8 @@ To **protect and regenerate the soil**, a **permanent ground cover system** will
 
 ### **Regenerative Poultry Production**
 
+<figure><img src="../../.gitbook/assets/KKN Adelphi - Vertical Social Post.png" alt=""><figcaption></figcaption></figure>
+
 #### **Free-Range Egg Production**
 
 A **small-scale poultry farm** will be established with **110 free-range laying hens**, producing an estimated **100 eggs per day**. The hens will be fed with **forage grown on-site**, including **Pangola grass**, optimizing the use of local resources.
@@ -47,6 +49,8 @@ A **small-scale poultry farm** will be established with **110 free-range laying 
 The [**poultry manure**](https://en.wikipedia.org/wiki/Chicken_manure) will be processed into **humic acids** and **organic urea**, essential products for fertilizing the **bio-intensive garden**. This approach will **enhance soil regeneration** and **close the nutrient cycle** within the production system.
 
 ### **Infrastructure and Training**
+
+<figure><img src="../../.gitbook/assets/Adelphi Polygon Infra.jpeg" alt=""><figcaption><p>Infrastructure &#x26; Crops Location Map</p></figcaption></figure>
 
 #### **Agro-ecological Training & Education Space**
 
