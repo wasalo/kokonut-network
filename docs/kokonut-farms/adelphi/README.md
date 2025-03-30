@@ -8,11 +8,15 @@ icon: trees
 
 ### **Project Summary (Abstract)**
 
-This project aims to establish a sustainable agro-ecological production model that integrates soil restoration, biodiversity conservation, and organic food production. It employs an innovative approach based on syntropic farming principles, biochar application, and productive diversification. A total of 13,838 m² will be dedicated to the agro-ecological production of vegetables, fruits, and forest species, ensuring the project's economic sustainability through commercialization in organic markets and local supermarkets.
+This project aims to establish a sustainable agro-ecological production model that integrates soil restoration, biodiversity conservation, and organic food production. It employs an innovative approach based on syntropic farming principles, biochar application, and productive diversification.&#x20;
+
+A total of 13,838 m² will be dedicated to the agro-ecological production of vegetables, fruits, and forest species, ensuring the project's economic sustainability through commercialization in organic markets and local supermarkets.
 
 Additionally, a specialized nursery will be set up to conserve endangered species, contributing to ecosystem restoration and environmental education within the community. The project will also include the construction of a free-range layer hen mini-farm and a natural fertilization system utilizing biochar and processed poultry manure.
 
-At the community level, the initiative will promote farmer and local community training through an agro-ecological education center, offering workshops with modules focused on agroforestry, and courses on organic production, regenerative soil management, and environmental conservation strategies. In the medium term, the project aims to expand by acquiring nearby lands for the preservation of local flora and fauna, solidifying a replicable model of sustainable production that benefits both ecosystems and the community.
+At the community level, the initiative will promote farmer and local community training through an agro-ecological education center, offering workshops with modules focused on agroforestry, and courses on organic production, regenerative soil management, and environmental conservation strategies.&#x20;
+
+In the medium term, the project aims to expand by acquiring nearby lands for the preservation of local flora and fauna, solidifying a replicable model of sustainable production that benefits both ecosystems and the community.
 
 #### **General Objective**
 
