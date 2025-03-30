@@ -4,6 +4,8 @@ icon: image
 
 # The Land’s Story
 
+<figure><img src="../../.gitbook/assets/Rebirth.jpg" alt=""><figcaption><p>Mother nature is an unbreakable living force that thrives in any environment </p></figcaption></figure>
+
 ### **The Rebirth of a Dream: Yanny and Neury Hernández**
 
 Yanny and Neury Hernández, sisters and single mothers, grew up in a farming family, spending their vacations surrounded by nature at their grandparents' countryside home. From a young age, they felt a deep connection to the land and always dreamed of returning to the countryside—to live off the land and preserve their ancestors' legacy.

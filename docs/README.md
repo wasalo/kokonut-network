@@ -30,19 +30,19 @@ The [Kokonut DAO](https://link.kokonut.network/dao) is the core vehicle for all 
 
 ### **How do I join Kokonut DAO?**
 
-We have created a [YouTube channel](https://link.kokonut.network/youtube) with Desktop PCs and mobile phone [playlists](https://www.youtube.com/channel/UCQusJMd1NgIIMOuxtJppSIA/playlists) available to guide you through the signing-up procedure.
+We have created a [YouTube channel](https://link.kokonut.network/youtube) with Desktop PCs and mobile phone [playlists](https://www.youtube.com/channel/UCQusJMd1NgIIMOuxtJppSIA/playlists) available to guide you through the sign-up procedure.
 
 ***
 
 ### **Do members share ownership of the property?**
 
-No, Kokonut DAO [members](https://link.kokonut.network/members) own the coconut plant as long as they hold their DAO tokens. Each token is backed 1:1 with a real coconut plant on the land.
+No, Kokonut DAO [members](https://link.kokonut.network/members) own the upside derived from the plants as long as they hold their DAO tokens. Each token is backed 1:1 with a real coconut plant.
 
 ***
 
 ### **What happens if crypto goes down?**
 
-Kokonut Network is unaffected by the crypto market because the Kokonut DAO only receives tributes in [stablecoins](https://link.kokonut.network/treasury). Coconut plants are bear-market-proof, and the coconut market is rising, as you can see [here](https://www.alliedmarketresearch.com/coconut-products-market).
+Kokonut Network is unaffected by the crypto market because the Kokonut DAO only receives tributes in [stablecoins](https://link.kokonut.network/treasury).
 
 ***
 
@@ -60,25 +60,19 @@ It depends on which blockchain you use. [Kokonut DAO](https://link.kokonut.netwo
 
 ### **What is the long-term plan?**
 
-Once the plants have reached the end of their useful life, we will replace them with new ones, thus restarting the production cycle.
+Once the plants have reached the end of their useful life, we will replace them with new ones, thus restarting the production cycle; a coconut plant can last for up to 20 years in optimal productive condition.
 
 ***
 
 ### **Why Blockchain?**
 
-Kokonut Network leverages blockchain for transparency, governance & member protection.
-
-***
-
-### **Are we going to be selling only coconuts?**
-
-The project's main purpose is to plant coconuts due to their flexibility and stability. We plan to open a voting process for the shareholders to vote on whether they want us to process the coconuts (milk, oil, etc.), thus increasing the rewards. The main philosophy of Kokonut Network is to distribute all the power and benefits among the shareholders and communities involved.
+Kokonut Network leverages blockchain for transparency, governance & member protections.
 
 ***
 
 ### **Where is the project located? Can I visit?**
 
-You will be authenticated with your Blockchain wallet and issued a _DAO Member Pass_. Our initial set of projects takes place in the Dominican Republic.
+Yes, visitors will be authenticated using a Blockchain wallet and issued a _DAO Member or Guest Pass_. Our initial set of project locations is in the Dominican Republic.
 
 ***
 
@@ -104,6 +98,6 @@ The minimum amount of tokens needed to participate in governance is 1 Kokonut DA
 
 We are here to help you with the process and have enabled a few channels where you can get in direct contact with us.
 
-* Please email us at [hello@kokonut.network](mailto:hello@kokonut.network)
+* Email us at [hello@kokonut.network](mailto:hello@kokonut.network)
 * Social media: [Discord](https://discord.gg/P6Jj5btpv7), [Twitter](https://twitter.com/kokonutnetwork), [Facebook](https://www.facebook.com/KokonutNetwork), [Instagram](https://instagram.com/kokonutnetwork).
-* Book a meeting: [https://link.kokonut.network/meeting](https://link.kokonut.network/meeting)
+* Let's chat: [https://link.kokonut.network/meeting](https://link.kokonut.network/meeting)
