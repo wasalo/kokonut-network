@@ -1,5 +1,5 @@
 ---
-icon: page
+icon: note
 ---
 
 # Executive Summary

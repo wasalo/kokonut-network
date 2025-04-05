@@ -3,7 +3,8 @@
 ## Kokonut 101
 
 * [Frequently Asked Questions](README.md)
-* [Executive Summary](kokonut-101/executive-summary.md)
+* [Green Paper](kokonut-101/green-paper/README.md)
+  * [Executive Summary](kokonut-101/green-paper/executive-summary.md)
 
 ## Kokonut Farms
 
