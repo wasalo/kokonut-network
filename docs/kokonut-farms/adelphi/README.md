@@ -31,6 +31,10 @@ Implement a regenerative agro-ecological production model that ensures environme
 * **Train farmers and local communities** in agro-ecological and sustainable practices, fostering environmental education and the adoption of best practices.
 * **Expand the project** by acquiring additional land for the conservation of flora and fauna, promoting long-term sustainability.
 
+{% embed url="https://youtu.be/ZxEdvQe1JNk" %}
+Kokonut Adelphi: A Nounish Community-Owned Syntropic Farm
+{% endembed %}
+
 #### **Project Size**
 
 📏 **Total Area: 15,725 m²**
@@ -45,6 +49,6 @@ Implement a regenerative agro-ecological production model that ensures environme
 #### Ecological Census Map
 
 {% file src="../../.gitbook/assets/Species Adelphi.pdf" %}
-Adelphi Ecological Census PDF Generated with GeoNode
+Adelphi Ecological Census PDF Generated with QGIS
 {% endfile %}
 
