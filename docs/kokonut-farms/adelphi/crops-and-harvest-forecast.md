@@ -80,8 +80,8 @@ Each lettuce will be sold wholesale in the range of **$0.55 - $0.63 per unit.**
 #### **Annual Revenue Calculation:**
 
 * **Total annual production:** _`85 passion fruits/plant × 560 plants` = 47,600 passion fruits_
-* **Number of nets to be produced:** _`47,600 passion fruits ÷ 13 passion fruits/net` = 4,307 nets_
-* **Total annual revenue in Dominican Pesos:** _`4,307 nets × 190 DOP/net` = 818,330 DOP_
+* **Number of nets to be produced:** _`47,600 passion fruits ÷ 13 passion fruits/net` = 3,661 nets_
+* **Total annual revenue in Dominican Pesos:** _`3,661 nets × 3.01 USD/net` = 11,019 DOP_
 
 ## Long Cycle
 
