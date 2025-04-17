@@ -60,7 +60,7 @@ Each lettuce will be sold wholesale in the range of **$0.55 - $0.63 per unit.**
 * Revenue per harvest: **$26,647.50**
 * Number of harvests per year: **5.**
 
-**Annual Revenue Forecast: `Total annual revenue = $26,647.50 USD/harvest × 5 harvests = $133,237.50 USD.`**
+**Annual Forecast: `Total annual revenue = $26,647.50 USD/harvest × 5 harvests`=** 133,237.50 USD
 
 ## Medium Cycle
 
@@ -81,7 +81,7 @@ Each lettuce will be sold wholesale in the range of **$0.55 - $0.63 per unit.**
 
 * **Total annual production:** _`85 passion fruits/plant × 560 plants` = 47,600 passion fruits_
 * **Number of nets to be produced:** _`47,600 passion fruits ÷ 13 passion fruits/net` = 3,661 nets_
-* **Total annual revenue in Dominican Pesos:** _`3,661 nets × 3.01 USD/net` = 11,019 DOP_
+* **Total annual revenue:** _`3,661 nets × 3.01 USD/net` = 11,019 USD_
 
 ## Long Cycle
 
@@ -95,12 +95,13 @@ Each lettuce will be sold wholesale in the range of **$0.55 - $0.63 per unit.**
 * **Plants in 8 plots of land:** 96
 * **Annual production per plant:** 75 coconuts
 * **Loss Rate:** 15% (0.85)
-* **Selling price per coconut:** 50 DOP
+* **Annual production per plant with Loss Rate**: 64 coconuts
+* **Selling price per coconut:** 0.79 USD
 
 #### **Annual Revenue Calculation:**
 
-* **Total annual production:** _`75 coconuts/plant × 96 plants` = 7,200 coconuts_
-* **Total annual revenue in Dominican Pesos:** _`7,200 coconuts × 50 DOP/coconut` = 360,000 DOP_
+* **Total annual production:** _`64 coconuts/plant × 96 plants` = 6,144 coconuts_
+* **Total annual revenue:** _`6,144 coconuts × 0.79 USD/coconut` = 4,853.76 USD_
 
 ***
 
