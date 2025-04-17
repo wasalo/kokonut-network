@@ -4,30 +4,30 @@ icon: salad
 
 # Crops & Harvest Forecast
 
-**Short cycle:** Lettuce, broccoli, spinach, tomatoes, arugula, and other minor crops.\
-**Medium cycle:** [Indian Yam](https://www.gbif.org/species/2755239)_,_ [Passion Fruit](https://www.gbif.org/species/2874190)\
-**Long cycle:** Coconut
+* **Short cycle:** Lettuce, broccoli, spinach, tomatoes, arugula, and other minor crops.
+* **Medium cycle:** [Indian Yam](https://www.gbif.org/species/2755239)_,_ [Passion Fruit](https://www.gbif.org/species/2874190)
+* **Long cycle:** Coconut
 
-**Total Production = `(Planting Density per m²) × (Bed Area in m²) × (Number of Beds per Plot of Land) × (Number of Plots of Land) × (1 - Loss Rate)`**
+**Total Production Formula = `(Planting Density per m²) × (Bed Area in m²) × (Number of Beds per Plot of Land) × (Number of Plots of Land) × (1 - Loss Rate)`**
 
-### Example: Lettuce Production Forecast
+## Short Cycle
 
-#### **General Formula**
+### Lettuce Production Forecast for 10 Plots of Land
+
+#### **Variables Formula**
 
 The total lettuce production is calculated using the following formula:
 
 * **Planting Density:** 12 lettuces/m²
 * **Bed Area:** 25 m².
 * **Number of Beds per Plot of Land:** 19
-* **Number of Plot of Land:** Defined based on the cultivated area.
-* **Loss Rate:** In this case, 15% (0.85).
+* **Number of Plots of Land:** Defined based on the cultivated area.
+* **Loss Rate:** 15% (0.85)
 
 #### **Applied Example**
 
-For a plantation of **10 plots of land**, applying the formula:
-
-1. **Lettuces per bed:** `12 lettuces/m² * 25 m²` = 300 lettuces/bed.
-2. **Lettuces per plot of land:** `300 lettuces/bed * 19 beds/plot of land` = 5,700 lettuces/plot of land.
+1. **Lettuce per bed:** `12 lettuces/m² * 25 m²` = 300 lettuces/bed.
+2. **Lettuce per plot of land:** `300 lettuces/bed * 19 beds/plot of land` = 5,700 lettuces/plot of land.
 3. **Lettuces in 10 plots of land:** `5,700 * 10` = 57,000 lettuces before loss adjustment.
 4. **Applying a 15% loss:** `57,000 * 0.85` = **48,450 effective lettuces.**
 
@@ -48,55 +48,60 @@ The lettuce production cycle depends on the cultivated variety:
 
 #### **Selling Price**
 
-Each lettuce will be sold wholesale in the range of **$35 - 40 pesos per unit.**
+Each lettuce will be sold wholesale in the range of **$0.55 - $0.63 per unit.**
 
-#### **Estimated Total Revenue:**
+#### **Estimated Total Revenue per Harvest:**
 
-* **Minimum:** `48,450 lettuces × $35` = **$1,695,750 pesos**
-* **Maximum:** `48,450 lettuces × $40` = **$1,938,000 pesos**
+* **Minimum:** `48,450 lettuces × $0.55` = **$26,647.50**
+* **Maximum:** `48,450 lettuces × $0.63` = **$30,523.50**
 
 #### **Annual Revenue Projection for Lettuce**
 
-**Data:**
-
-* Revenue per harvest: **1,695,750 pesos.**
+* Revenue per harvest: **$26,647.50**
 * Number of harvests per year: **5.**
 
-**Annual Revenue Forecast: `Total annual revenue = $1,695,750 pesos/harvest × 5 harvests = $8,478,750 DOP.`**
+**Annual Revenue Forecast: `Total annual revenue = $26,647.50 USD/harvest × 5 harvests = $133,237.50 USD.`**
 
-### Example: Passion Fruit Production Forecast
+## Medium Cycle
 
-#### **Passion Fruit Production Calculation for 8 Plots of Land**
+### Passion Fruit Production Forecast **for 8 Plots of Land**
 
-**Data:**
+#### **Variables Formula:**
 
 * **Area per plot of land:** 629 m²
 * **Planting spacing:** 3x3 meters (9 m²/plant)
 * **Plants per plot of land:** 70
 * **Plants in 8 plots of land:** 560
 * **Annual production per plant:** 100 passion fruits
-* **Selling price per net:** 190 DOP (each net contains an average of 13 passion fruits)
+* **Loss Rate:** 15% (0.85)
+* **Annual production per plant with Loss Rate**: 85 passion fruits
+* **Selling price per net:** $3.01 (each net contains an average of 13 passion fruits)
 
 #### **Annual Revenue Calculation:**
 
-* **Total annual production:** _`100 passion fruits/plant × 560 plants` = 56,000 passion fruits_
-* **Number of nets to be produced:** _`56,000 passion fruits ÷ 13 passion fruits/net` = 4,307 nets_
+* **Total annual production:** _`85 passion fruits/plant × 560 plants` = 47,600 passion fruits_
+* **Number of nets to be produced:** _`47,600 passion fruits ÷ 13 passion fruits/net` = 4,307 nets_
 * **Total annual revenue in Dominican Pesos:** _`4,307 nets × 190 DOP/net` = 818,330 DOP_
 
-### Example: Coconut Production Calculation
+## Long Cycle
 
-#### **Coconut Production Calculation for 8 Plots of Land**
+### Coconut Production **for 8 Plots of Land**
 
-**Data:**
+#### **Variables Formula:**
 
 * **Area per plot of land:** 629 m²
 * **Planting spacing:** 7x7 meters (49 m²/plant)
 * **Plants per plot of land:** 12
 * **Plants in 8 plots of land:** 96
 * **Annual production per plant:** 75 coconuts
+* **Loss Rate:** 15% (0.85)
 * **Selling price per coconut:** 50 DOP
 
 #### **Annual Revenue Calculation:**
 
 * **Total annual production:** _`75 coconuts/plant × 96 plants` = 7,200 coconuts_
 * **Total annual revenue in Dominican Pesos:** _`7,200 coconuts × 50 DOP/coconut` = 360,000 DOP_
+
+***
+
+> **Disclaimer**: These are purely informational purpose statistics in USD, exchange rate and final amounts are subject to change, actual amounts can be found at [Kokonut Adelphi Data Hub](https://hub.kokonut.network/projects/41)
