@@ -9,6 +9,7 @@
 ## Kokonut Farms
 
 * [Adelphi](kokonut-farms/adelphi/README.md)
+  * [Local Problem & Solution](kokonut-farms/adelphi/local-problem-and-solution.md)
   * [Crops, Biodiversity, and Infrastructure](kokonut-farms/adelphi/crops-biodiversity-and-infrastructure.md)
   * [Crops & Harvest Forecast](kokonut-farms/adelphi/crops-and-harvest-forecast.md)
   * [The Land’s Story](kokonut-farms/adelphi/the-lands-story.md)
