@@ -8,7 +8,7 @@ Blockchain open data and protocols offer a solution that benefits DAO members, f
 
 Through a [framework](https://framework.kokonut.network/) with bullet-proof standardized processes, we create job opportunities and enhance the quality of life for those contributing to the network's well-being. The objective is to establish a fair mechanism for funding, managing, and developing Syntropic Farms while maintaining a commitment to environmental preservation.
 
-#### Kokonut Seeds Liquidity Vacuum Mechanism
+#### Framework Use Case: Kokonut Seeds Liquidity Vacuum Mechanism
 
 <figure><img src="../../.gitbook/assets/KKN Seeds Vacuum Flywheel.png" alt=""><figcaption></figcaption></figure>
 
