@@ -1,10 +1,12 @@
 ---
-icon: users-viewfinder
+icon: layer-group
 ---
 
 # DAO Layers
 
-> Our DAO Thesis is powered by 4 Layers that aim to provide stability to the network ⚖️🧬
+<figure><img src="../.gitbook/assets/KKN_info.png" alt=""><figcaption></figcaption></figure>
+
+> Our DAO Thesis is powered by 5 Layers that aim to provide stability to the network ⚖️🧬
 
 #### Governance Layer
 
@@ -12,7 +14,7 @@ This layer is composed of Kokonut [DAO members](https://link.kokonut.network/mem
 
 #### Logic Layer
 
-This layer is where the [DAO Treasury](https://link.kokonut.network/treasury), list of token holders, funding, and membership proposals vote live securely. All the information critical for the project's transparency and longevity is publicly available on the Gnosis Chain.
+This layer is where the [DAO Treasury](https://link.kokonut.network/treasury), list of token holders, funding, and membership proposals live securely. All the information critical for the project's transparency and longevity is publicly available on the Gnosis Chain.
 
 #### Execution Layer
 
@@ -20,4 +22,4 @@ After approval by Kokonut DAO members, this layer functions as the body responsi
 
 #### Production Layer
 
-**This is where the magic happens!** In this layer, we bring our mission to life: building, producing, and distributing Coconuts & Derivatives products globally. [Kokonut V1](https://kokonut.network/kokonut-v1) is our first plantation to be funded via Kokonut DAO, comprising 60,000 coconut plants across 620 acres of land, with an annual production of 18 million coconuts.
+**This is where the magic happens!** In this layer, we bring our mission to life: building, producing, and distributing Coconut and derivatives products globally. Kokonut V1 is our first plantation to be funded via Kokonut DAO.
