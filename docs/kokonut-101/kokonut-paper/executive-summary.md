@@ -29,9 +29,11 @@ The coconut products market size was valued at $11.5 billion in 2018 and is esti
 
 > _**Coconut is a versatile fruit with many health, environmental and biodiversity benefits.**_
 
-## Kokonut Framework Climate Impact <a href="#user-content-kokonut-framework-climate-impact" id="user-content-kokonut-framework-climate-impact"></a>
+## Kokonut Framework Holistic Impact <a href="#user-content-kokonut-framework-climate-impact" id="user-content-kokonut-framework-climate-impact"></a>
 
 We’re developing a [hybrid framework](https://framework.kokonut.network/) that creates a positive community-centric impact, addressing systemic issues in underserved areas and enhancing climate resilience. Our approach focuses on sustainable solutions that improve daily lives and provide incentives without deforestation.
+
+<figure><img src="../../.gitbook/assets/Network vs Foundation.png" alt=""><figcaption></figcaption></figure>
 
 ## **Main Resources** 🔖 <a href="#user-content-main-resources" id="user-content-main-resources"></a>
 

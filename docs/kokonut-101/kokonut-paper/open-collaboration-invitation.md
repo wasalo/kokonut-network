@@ -4,6 +4,8 @@ icon: envelope-open-text
 
 # Open Collaboration Invitation
 
+<figure><img src="../../.gitbook/assets/Climate &#x26; Kokonut Ecosystem.png" alt=""><figcaption><p>We've summarized our WHY in this <a href="https://x.com/KokonutNetwork/status/1843262509492404627">tweet</a>. Do you resonate with it?</p></figcaption></figure>
+
 **To the Regenerative Finance (ReFi) Community,**
 
 As planetary stewards and innovators, we stand at a pivotal moment: global food demand is skyrocketing, and conventional farming strains our precious resources. At [**Kokonut Network**](https://kokonut.network/press), we believe the answer lies in nature’s design: [Syntropic Ecosystems](https://x.com/tecmns/status/1935010238752501834).
