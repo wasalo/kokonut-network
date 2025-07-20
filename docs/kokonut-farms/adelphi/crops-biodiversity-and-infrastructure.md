@@ -6,7 +6,7 @@ icon: puzzle
 
 ### **Project Sustainability**
 
-The project will allocate **13,838 m²** to the establishment of an **agro-ecological garden**, designed as the foundation for long-term sustainability. The produce from this garden will be distributed in organic markets, promoting access to **healthy and sustainable food**. In the long run, the goal is to **expand production and distribution to national supermarket chains**, fostering healthier eating habits and strengthening the agro-ecological sector.
+The project will allocate **13,838 m²** to establishing an **agro-ecological garden**, designed as the foundation for long-term sustainability. The produce from this garden will be distributed in organic markets, promoting access to **healthy and sustainable food**. The long-term goal is to **expand production and distribution to national supermarket chains**, fostering more nutritious eating habits and strengthening the agro-ecological sector.
 
 ### **Productive Diversification and Species Conservation**
 
@@ -19,6 +19,8 @@ In the **higher areas** of the land, **fruit orchards** will be established with
 A **plantation system** will be implemented to support **ecological restoration and local wildlife**. This will include **honey-producing, fruit-bearing, and ornamental species**, such as [**Hispaniola palmetto**](https://www.gbif.org/species/2732565)**,** [**Florida fiddlewood**](https://www.gbif.org/species/2925390)**,** [**Princess vine**](https://www.gbif.org/species/3039173)**, bejuco,** [**Logwood**](https://www.gbif.org/species/2950903)**,** [**Custard Apple**](https://www.gbif.org/species/5407123)**, and various species from the Sapotaceae family** (e.g., [**Naseberry**](https://www.gbif.org/species/2884162)**,** [**Star Apple**](https://www.gbif.org/species/2885828)**, and** [**Mammee Apple**](https://www.gbif.org/species/3189421)). Additionally, species of **high ecological value** will be cultivated, including [**Jagua**](https://www.gbif.org/species/2895593)**,** [**cashew**](https://www.gbif.org/species/5421368)**,** [**guavaberry**](https://www.gbif.org/species/3186420)**,** [**Congo coffeetree**](https://www.gbif.org/species/2895528)**, and** [**native cacao**](https://www.gbif.org/species/3152205).
 
 #### **Nursery for the Conservation of At-Risk Species**
+
+<figure><img src="../../.gitbook/assets/Adelphi Biofactory - KKN Social Post .png" alt=""><figcaption></figcaption></figure>
 
 The project will feature a **specialized nursery** for the reproduction of **endangered, critically threatened, and highly vulnerable plant species**. This nursery will play a vital role in **propagating native varieties**, which will be **distributed for free** to visitors and nearby communities, **promoting conservation and ecosystem restoration** in degraded areas.
 
