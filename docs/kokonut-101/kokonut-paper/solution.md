@@ -2,7 +2,9 @@
 icon: octagon-check
 ---
 
-# Solution
+# Our Solution
+
+<figure><img src="../../.gitbook/assets/Why Web3 - Kokonut Network.png" alt=""><figcaption></figcaption></figure>
 
 Blockchain open data and protocols offer a solution that benefits DAO members, farmers, and partners. This involves simplifying fundraising and coordination processes while actively monitoring fauna, flora, and endangered species to create a holistic solution.&#x20;
 
