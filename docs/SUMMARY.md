@@ -6,7 +6,7 @@
 * [Kokonut Paper](kokonut-101/kokonut-paper/README.md)
   * [Open Collaboration Invitation](kokonut-101/kokonut-paper/open-collaboration-invitation.md)
   * [Executive Summary](kokonut-101/kokonut-paper/executive-summary.md)
-  * [Problem](kokonut-101/kokonut-paper/problem.md)
+  * [Problem Statement](kokonut-101/kokonut-paper/problem.md)
   * [Solution](kokonut-101/kokonut-paper/solution.md)
 
 ## Kokonut Farms
