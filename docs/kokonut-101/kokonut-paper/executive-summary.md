@@ -23,6 +23,8 @@ Every component of our ecosystem is crafted in alignment with our [core values](
 
 ### Why coconuts 🥥: Zero Waste & Circular Crop ♻️
 
+<figure><img src="../../.gitbook/assets/e1475bad-4b5b-4456-9894-09bc12e1087a.jpeg" alt=""><figcaption></figcaption></figure>
+
 Coconuts are the most cultivated and vital palm tree in the world, as it is the main source of vegetable fat. It is one of the species that provide a wide variety of products and by-products, serving as a primary source of food, drinks, and shelter for animals.&#x20;
 
 The coconut products market size was valued at $11.5 billion in 2018 and is estimated to reach $31.1 billion by 2026, registering a CAGR of 13.6% from 2019 to 2026. In 2018, the coconut oil vertical accounted for more than half of the total coconut products market share.
