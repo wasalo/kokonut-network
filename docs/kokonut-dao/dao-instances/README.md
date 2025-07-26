@@ -14,8 +14,8 @@ Our goal is to build a resilient hyperstructure that unites diverse stakeholders
 
 #### Deployed Instances
 
-| Name               | Purpose                                                                           | URL                                                      |
-| ------------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| Kokonut Moloch DAO | The main governance body of the Kokonut Ecosystem, based on the Moloch Framework. | [kokonut-moloch-dao.md](kokonut-moloch-dao.md "mention") |
-|                    |                                                                                   |                                                          |
-|                    |                                                                                   |                                                          |
+| Name               | Purpose                                                                                                                                      | URL                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Kokonut Moloch DAO | Expand & Scale the Network by providing Funding, Oversight, and Governance over the operations of those projects the DAO decides to develop. | [kokonut-moloch-dao.md](kokonut-moloch-dao.md "mention") |
+|                    |                                                                                                                                              |                                                          |
+|                    |                                                                                                                                              |                                                          |
