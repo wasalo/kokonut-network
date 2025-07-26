@@ -14,8 +14,8 @@ Our goal is to build a resilient hyperstructure that unites diverse stakeholders
 
 #### Deployed Instances
 
-| Name               | Purpose                                                                                                                                      | URL                                                      |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| Kokonut Moloch DAO | Expand & Scale the Network by providing Funding, Oversight, and Governance over the operations of those projects the DAO decides to develop. | [kokonut-moloch-dao.md](kokonut-moloch-dao.md "mention") |
-|                    |                                                                                                                                              |                                                          |
-|                    |                                                                                                                                              |                                                          |
+| Name               | Purpose                                                                                                                              | URL                                                      |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| Kokonut Moloch DAO | Expand and scale the ecosystem by providing funding, oversight, and governance for the projects approved by the DAO for development. | [kokonut-moloch-dao.md](kokonut-moloch-dao.md "mention") |
+|                    |                                                                                                                                      |                                                          |
+|                    |                                                                                                                                      |                                                          |
