@@ -18,7 +18,9 @@
   * [The Land’s Story](kokonut-farms/adelphi/the-lands-story.md)
   * [Sustainable Development Goals](kokonut-farms/adelphi/sustainable-development-goals.md)
 
-## Kokonut DAO
+## The Kokonut DAO <a href="#kokonut-dao" id="kokonut-dao"></a>
 
 * [DAO Layers](kokonut-dao/dao-layers.md)
+* [DAO Instances](kokonut-dao/dao-instances/README.md)
+  * [Kokonut Legacy DAO](kokonut-dao/dao-instances/legacy-dao.md)
 * [Governance Framework](kokonut-dao/governance-framework.md)
