@@ -14,8 +14,8 @@ Our goal is to build a resilient hyperstructure that unites diverse stakeholders
 
 #### Deployed Instances
 
-| Name               | Purpose                                                                           | URL                                      |
-| ------------------ | --------------------------------------------------------------------------------- | ---------------------------------------- |
-| Kokonut Legacy DAO | The main governance body of the Kokonut Ecosystem, based on the Moloch Framework. | [legacy-dao.md](legacy-dao.md "mention") |
-|                    |                                                                                   |                                          |
-|                    |                                                                                   |                                          |
+| Name               | Purpose                                                                           | URL                                                      |
+| ------------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Kokonut Moloch DAO | The main governance body of the Kokonut Ecosystem, based on the Moloch Framework. | [kokonut-moloch-dao.md](kokonut-moloch-dao.md "mention") |
+|                    |                                                                                   |                                                          |
+|                    |                                                                                   |                                                          |

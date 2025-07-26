@@ -22,5 +22,5 @@
 
 * [DAO Layers](kokonut-dao/dao-layers.md)
 * [DAO Instances](kokonut-dao/dao-instances/README.md)
-  * [Kokonut Legacy DAO](kokonut-dao/dao-instances/legacy-dao.md)
+  * [Kokonut Moloch DAO](kokonut-dao/dao-instances/kokonut-moloch-dao.md)
 * [Governance Framework](kokonut-dao/governance-framework.md)
