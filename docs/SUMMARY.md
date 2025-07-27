@@ -9,6 +9,10 @@
   * [Problem Statement](kokonut-101/kokonut-paper/problem.md)
   * [Our Solution](kokonut-101/kokonut-paper/solution.md)
 
+## Getting Started
+
+* [Kokonut Manifesto](getting-started/kokonut-manifesto.md)
+
 ## Kokonut Farms
 
 * [Adelphi](kokonut-farms/adelphi/README.md)
