@@ -10,16 +10,16 @@ icon: layer-group
 
 #### Governance Layer
 
-This layer is composed of Kokonut [DAO members](https://link.kokonut.network/members). They oversee and vote on proposals that benefit the Kokonut Network. Anyone who holds at least one Kokonut DAO token can participate in DAO governance.
+This layer is composed of Kokonut DAO members. They oversee and vote on proposals that benefit the Kokonut Ecosystem. Anyone who holds at least one Kokonut DAO token can participate in DAO governance.
 
 #### Logic Layer
 
-This layer is where the [DAO Treasury](https://link.kokonut.network/treasury), list of token holders, funding, and membership proposals live securely. All the information critical for the project's transparency and longevity is publicly available on the Gnosis Chain.
+This layer is where the [DAO Treasury](https://link.kokonut.network/treasury), list of token holders, funding, and membership proposals live securely.
 
 #### Execution Layer
 
-After approval by Kokonut DAO members, this layer functions as the body responsible for executing the budget and work plan. It comprises the [Core Team](https://kokonut.network/about), Kokonut DAO Contributors, and Global Enterprise Partners.
+After approval by Kokonut DAO members, this layer functions as the body responsible for executing the budget and work plan. It comprises the [Core Team](https://kokonut.network/about), Kokonut DAO Contributors, and Global & Local Partners.
 
 #### Production Layer
 
-**This is where the magic happens!** In this layer, we bring our mission to life: building, producing, and distributing Coconut and derivatives products globally. Kokonut V1 is our first plantation to be funded via Kokonut DAO.
+**This is where the magic happens!** In this layer, we bring our mission to life: producing and distributing Coconuts and derivative products globally. Kokonut V1 is our first commercial-grade farm to be funded via Kokonut DAO.
